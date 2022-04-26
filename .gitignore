@@ -1,4 +1,6 @@
 __pycache__
+./__pycache__
 .idea
 .DS_Store
 /recommender_api/config.py
+/dashmap logo.png
