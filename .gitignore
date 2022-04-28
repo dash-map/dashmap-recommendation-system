@@ -1,6 +1,12 @@
 __pycache__
-./__pycache__
+./recommender_api/__pycache__
+./recommender_api/apps/__pycache__
+./recommender_api/utils/__pycache__
+
 .idea
+./recommender_api/.idea
+./recommender_api/apps/.idea
+./recommender_api/utils/.idea
+
 .DS_Store
-/recommender_api/config.py
-/dashmap logo.png
+./recommender_api/config.py
